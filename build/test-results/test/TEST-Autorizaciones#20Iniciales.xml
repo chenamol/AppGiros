@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Autorizaciones Iniciales" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-23T14:45:49" hostname="QVT1MDEWIN14" time="40.417">
+  <properties/>
+  <testcase name="Confirmar Autorizaciones Iniciales Exitoso" classname="Autorizaciones Iniciales" time="40.417"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[abr 23, 2020 9:46:10 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
